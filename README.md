@@ -6,7 +6,10 @@ For example:
 ```
 
 Renders as:
-- This is a block formula, placed inline $$\text{A Formula}$$
+- This is a block formula, placed inline 
+    $$
+    \text{A Formula}
+    $$
 
 Other markdown renderers (such as those used by Quartz) could fail, or place the formula inline, but obsidian still renders it as a proper block formula. 
 
